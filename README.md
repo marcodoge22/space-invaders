@@ -1,11 +1,14 @@
-# Space Invaders
+# Games
 
-A classic Space Invaders clone built with Pygame.
+Two games here:
+
+- `space_invaders.py` - Space Invaders
+- `snake.py` - Classic Snake game
 
 ## How to play
 
-1. Install Python and Pygame
-2. Run `python space_invaders.py`
-3. Use arrow keys to move, space to shoot
+1. Install Python from python.org
+2. Open terminal and run: `pip install pygame`
+3. Run the game: `python snake.py` or `python space_invaders.py`
 
-Enjoy!
+Works on Mac or Windows.
